@@ -1,0 +1,34 @@
+body
+{
+    background-image: url(img/cork-board.png)!important; /* Background image from subtlepatterns.com */
+}
+#naglowek
+{
+   
+}
+#demontaz
+{
+ transition: all 1s;
+}
+#demontaz:hover
+{
+    transform: scale(1.5);
+}
+#mainlogo
+{
+    height: 30vh;
+    transition: all 1.5s;
+    opacity: 100;
+}
+#mainlogo:hover
+{
+    transform: scale(1.5);
+}
+.logosmal
+{
+    transition: all 0.8s;
+}
+.logosmal:hover
+{
+    transform: scale(1.5);
+}
